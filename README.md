@@ -1,0 +1,2 @@
+# ProxemicEnt15-01-20
+Proxemic interaction, derived from proxemic theory, focuses on how human interaction works with smart devices. The aim of this work is to describe theoretical analysis and methods applied to proxemic interaction and propose solutions to make easier the creation of proxemic mobile applications for developers and designers. API We have developed an API based on proxemic interactions and the combination of proxemic dimensions. This API provides classes, methods, and relations to define proxemic interaction zones
